@@ -16,7 +16,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ahmedyasser2105ww
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
 
