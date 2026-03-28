@@ -46,18 +46,5 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedyasser2105ww&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedyasser2105ww&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahmedyasser2105ww&theme=github-dark-blue&hide_border=true" />
-</p>
-
 ---
 
-## 🐍 Contribution Snake  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahmedyasser2105ww/ahmedyasser2105ww/output/snake.svg" />
-</div>
